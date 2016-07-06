@@ -4,8 +4,15 @@
         <description><![CDATA[Spice]]></description>
         <link>https://thegrid.ai/spice/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 03:04:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2016 03:04:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/spice/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5571bbde-89e8-433b-94b7-ca782ef472b2.jpg" alt="Feta chicken &amp; spring onion frittata with homemade muesli">]]></description>
+            <link>https://thegrid.ai/spice/feta-chicken-and-spring-onion-frittata-with-homemade-muesli/index.html</link>
+            <guid isPermaLink="false">fe1cb2fd-9cca-4ed2-aa0a-247a31c792d4</guid>
+            <pubDate>Wed, 06 Jul 2016 03:04:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ef1384e-685a-44a3-b0d4-1c6e213f587c.jpg" alt="Apple crumble bites">]]></description>
