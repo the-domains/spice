@@ -1,0 +1,14 @@
+layout_spectrum: 0.015662385849282146
+typography_spectrum: 0.39270024234429
+color:
+  brandStrength: 0.3888275537174195
+  lightness: 0.6131051343400031
+  saturation: 0.2665104002226144
+  rhythmicContrast: 0.3441506614908576
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Spice
