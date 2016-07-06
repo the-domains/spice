@@ -1,4 +1,3 @@
-layout_spectrum: 0.015662385849282146
 typography_spectrum: 0.39270024234429
 color:
   brandStrength: 0.3888275537174195
@@ -11,4 +10,9 @@ color:
     - '#505217'
     - '#FFD372'
     - '#FFF1AF'
+layout_spectrum: 0.015662385849282146
+author:
+  name: Daniel Atwood
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e38d29d7-94e4-4d1f-8c36-72b0183de901.jpg
 name: Spice
