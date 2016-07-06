@@ -1,6 +1,5 @@
-layout_spectrum: 0.01566238584928215
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e38d29d7-94e4-4d1f-8c36-72b0183de901.jpg
+layout_spectrum: 0.893617
+typography_spectrum: 0.39270024234429
 author:
   name: Daniel Atwood
 name: Spice
@@ -16,7 +15,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.39270024234429
 color:
   brandStrength: 0.3888275537174195
   lightness: 0.8723404
@@ -28,3 +26,5 @@ color:
     - '#505217'
     - '#FFD372'
     - '#FFF1AF'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e38d29d7-94e4-4d1f-8c36-72b0183de901.jpg
